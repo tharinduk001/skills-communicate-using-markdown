@@ -1,3 +1,5 @@
+# New header
+
 <header>
 
 <!--
@@ -6,12 +8,27 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-# New header
+
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
-### This is a h3 header
+
 </header>
+### This is a h3 header
+
+`code`
+
+- list item 1
+- list item 2
+
+__bold text__ 
+
+_italic_ 
+
+Name | Age
+- | -
+Saman | 34
+Amara | 19
 
 <!--
   <<< Author notes: Step 1 >>>
